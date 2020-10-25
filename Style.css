@@ -1,0 +1,214 @@
+@font-face {
+    src: url(helvetica-cirilica.ttf);
+    font-family: Helvetica;
+}
+#bodyA {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #00A0E4;
+}
+#bodyB {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #EEE413;
+}
+#bodyV {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #E53725;
+}
+#bodyG {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #65B339;
+}
+#bodyD {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #9D3C8D;
+}
+#bodyDj {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #F6A137;
+}
+#imgslovo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    max-height: 65vh;
+    max-width: 97%;
+}
+#imgazbuka {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 20vh;
+    max-width: 100%;
+}
+#logogore {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+#logo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 95%;
+    width: 95%;
+}
+#divlogo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    position: relative;
+    height: 100%;
+    width: 59%;
+    font-size: 250%;
+    font-weight: 900;
+    font-family: Helvetica;
+    float:left;
+    background-color: #ffffff;
+    border: 1px solid #4d4d4d ;
+    box-shadow: horizontal-offset vertical-offset blur color;
+    box-shadow: 1px 1px 4px #4d4d4d;
+    border-radius: 6px;
+}
+#divlogodugme {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    max-height: 99%;
+    position: relative;
+    background-color: #ffffff;
+}
+#logohead {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 8vh;
+    width: 100%;
+}
+#divlogolevo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100%;
+    width: 20%;
+    float:left;
+}
+#divlogodesno {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100%;
+    width: 20%;
+    float:left;
+}
+#iznadcirilicalogo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 2vh;
+    width: 100%;
+}
+#div2vh {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 2vh;
+    width: 100%;
+}
+#div10vh {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 25vh;
+    width: 100%;
+}
+#dugme {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 6vh;
+    width: 100%;
+}
+#dugmenazad {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 6vh;
+    width: 50%;
+    float: left;
+}
+#dugmenapred {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 6vh;
+    width: 50%;
+    float: left;
+}
+#buttonnazad {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100%;
+    width: 59%;
+    font-size: 28px;
+    background-color: #ffffff;
+    border: 1px solid #4d4d4d ;
+    padding: 0;
+    box-shadow: horizontal-offset vertical-offset blur color;
+    box-shadow: 1px 1px 4px #4d4d4d;
+    border-radius: 6px;
+}
+#buttonnapred {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100%;
+    width: 59%;
+    font-size: 28px;
+    background-color: #ffffff;
+    border: 1px solid #4d4d4d ;
+    padding: 0;
+    box-shadow: horizontal-offset vertical-offset blur color;
+    box-shadow: 1px 1px 4px #4d4d4d;
+    border-radius: 6px;
+}
+#slovo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    max-height: 65vh;
+    width: 90%;
+    background-color: #ffffff;
+    border: 1px solid #4d4d4d ;
+    padding: 0;
+    box-shadow: horizontal-offset vertical-offset blur color;
+    box-shadow: 1px 1px 4px #4d4d4d;
+    border-radius: 6px;
+}
+#azbukalogo {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 20vh;
+    width: 90%;
+    background-color: #ffffff;
+    border: 1px solid #4d4d4d ;
+    padding: 0;
+    box-shadow: horizontal-offset vertical-offset blur color;
+    box-shadow: 1px 1px 4px #4d4d4d;
+    border-radius: 6px;
+}
